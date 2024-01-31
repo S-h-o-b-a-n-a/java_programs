@@ -9,6 +9,7 @@ public class Test_case3 {
 				for(int i=1;i<=n;i++){
 					//Loop to iterate over each column
 					for(int j=i;j<=n;j++){
+						
 						System.out.print(j+ " "); 
 					}
 
